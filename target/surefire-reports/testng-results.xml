@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="54473" started-at="2018-11-23T11:36:55Z" finished-at="2018-11-23T11:37:49Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="54473" started-at="2018-11-23T11:36:55Z" finished-at="2018-11-23T11:37:49Z">
+      <class name="com.crm.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.HomePageTest@77b52d12]" name="setUp" is-config="true" duration-ms="16778" started-at="2018-11-23T11:37:18Z" finished-at="2018-11-23T11:37:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyHomePageTitleTest()[pri:1, instance:com.crm.qa.testcases.HomePageTest@77b52d12]" name="verifyHomePageTitleTest" duration-ms="8" started-at="2018-11-23T11:37:35Z" finished-at="2018-11-23T11:37:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.crm.qa.testcases.HomePageTest@77b52d12]" name="teardown" is-config="true" duration-ms="668" started-at="2018-11-23T11:37:35Z" finished-at="2018-11-23T11:37:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.crm.qa.testcases.HomePageTest -->
+      <class name="com.crm.qa.testcases.ContactsPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@614c5515]" name="setUp" is-config="true" duration-ms="23117" started-at="2018-11-23T11:36:55Z" finished-at="2018-11-23T11:37:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyContactsPageLabel()[pri:1, instance:com.crm.qa.testcases.ContactsPageTest@614c5515]" name="verifyContactsPageLabel" duration-ms="36" started-at="2018-11-23T11:37:18Z" finished-at="2018-11-23T11:37:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContactsPageLabel -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@614c5515]" name="teardown" is-config="true" duration-ms="637" started-at="2018-11-23T11:37:18Z" finished-at="2018-11-23T11:37:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.crm.qa.testcases.ContactsPageTest -->
+      <class name="com.crm.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@2d554825]" name="setUp" is-config="true" duration-ms="12539" started-at="2018-11-23T11:37:36Z" finished-at="2018-11-23T11:37:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.crm.qa.testcases.LoginPageTest@2d554825]" name="loginPageTitleTest" duration-ms="17" started-at="2018-11-23T11:37:48Z" finished-at="2018-11-23T11:37:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@2d554825]" name="teardown" is-config="true" duration-ms="642" started-at="2018-11-23T11:37:48Z" finished-at="2018-11-23T11:37:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.crm.qa.testcases.LoginPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
